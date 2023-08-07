@@ -1,6 +1,6 @@
-Build Trading Company System | Python & PyQt5 & MYSQLdb
+# Build Trading Company System | Python & PyQt5 & MYSQLdb
 
-// features provided by the application
+# features provided by the application
 	 the movement of the products into the stock from suppliers and from the stock to the customers 
 	 Each movement considered as a bill with all required information
 	 either bill in from supplier (invoice) or bill out to customer (burchase)
@@ -10,7 +10,7 @@ Build Trading Company System | Python & PyQt5 & MYSQLdb
 	 some employees have permisiion to add, edit, delete data.
 	 the system also have stock where price and remaining quantity of each product are stored.
 
-// steps to run the Trading Company application successfully
+# steps to run the Trading Company application successfully
 1- setup Mysql on Your computer
 2- open 'trading_company_DB.sql' with any editor --> copy all the code in the file
 3- go to mysql workbench --> file --> new Query tab --> paste the code and select all then run it
